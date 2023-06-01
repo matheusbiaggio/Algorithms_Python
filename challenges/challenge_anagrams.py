@@ -1,12 +1,3 @@
-# sua função irá receber duas strings de parâmetro e o retorno da função será uma tupla () com a primeira string ordenada, a segunda string ordenada e um booleano, True ou False representando se são anagramas.
-# O algoritmo deve considerar letras maiúsculas e minúsculas como iguais durante a comparação das entradas, ou seja, ser case insensitive.
-# Utilize qualquer algoritmo que quiser (Selection sort, Insertion sort, Bubble sort, Merge sort, Quick sort ou TimSort), desde que atinja a complexidade O(n log n).
-# Você deverá implementar sua própria função de ordenação, ou seja, o uso de funções prontas não é permitido.
-#   Exemplos de funções não permitidas: sort, sorted e Counter;
-# A função retorna True caso uma string seja um anagrama da outra independente se as letras são maiúsculas ou minúsculas;
-# A função retorna False caso uma string não seja um anagrama da outra;
-
-
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr
