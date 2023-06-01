@@ -7,6 +7,7 @@
 ## ✔ Technologies used
 
 -  <img align="center" alt="Matheus-DOCKER" height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img align="center" alt="Matheus-PYTHON" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br>
 
 ## 📒 Introduction
 
@@ -19,10 +20,11 @@ In this project, I have implemented four key functions, accompanied by thorough 
   - <b>Occurrences in Lists</b>: This complex function verifies multiple lists and returns the count of occurrences of a given value within a specified range across those lists. It provides valuable insights into patterns and trends within the data, facilitating data analysis.
 
   - <b>Word Encryption</b>: This function encrypts a word, adding an extra layer of security to sensitive information. It can be utilized for various purposes, such as password protection or data encryption, ensuring the confidentiality of important data.
+<br>
 
 ##  :wrench: Unit Tests
 To ensure the reliability and functionality of each function, I have developed comprehensive unit tests. These tests cover various scenarios and edge cases, validating the accuracy of the implemented algorithms. They serve as a safeguard against potential bugs and allow for easy integration into larger projects.
-
+<br>
 
 
 ##  :minidisc: Getting Started
@@ -45,6 +47,7 @@ cd your-repository
 Explore the codebase, review the implementation of each function, and run the provided unit tests to ensure everything is functioning as expected.
 
 Feel free to provide feedback, suggestions, or improvements to enhance the project. Contributions are also welcome through pull requests. Let's collaborate and create a vibrant community of problem solvers!
+<br>
 
 ##  :envelope: Acknowledgements
 I would like to express my gratitude to the open-source community and developers who have shared their knowledge, inspiring the pursuit of excellence. Additionally, special thanks to all those who have supported me throughout this project and provided valuable insights.
