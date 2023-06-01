@@ -4,6 +4,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+<br>
 ## ✔ Technologies used
 
 -  <img align="center" alt="Matheus-DOCKER" height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img align="center" alt="Matheus-PYTHON" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
